@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "https://gdg-warsaw-devfest.firebaseapp.com",
+  "analytics": "UA-43643469-8",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyByrsZ0dMHZmYbY6b9D_ru0wlYB-POL5jo",
+    "authDomain": "gdg-warsaw-devfest.firebaseapp.com",
+    "databaseURL": "https://gdg-warsaw-devfest.firebaseio.com",
+    "projectId": "gdg-warsaw-devfest",
+    "storageBucket": "gdg-warsaw-devfest.appspot.com",
+    "messagingSenderId": "519395820881" 
+  },
+  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
+}
